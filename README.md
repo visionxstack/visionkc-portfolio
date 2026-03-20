@@ -26,7 +26,7 @@ This portfolio showcases the work of Vision KC, a developer and cybersecurity an
 
 | Area | Technologies |
 |------|-------------|
-| Frontend | HTML, CSS, JavaScript |
+| Frontend | React JS |
 | Security Focus | Linux, Networking, Web App Pentesting |
 | AI/ML | Computer Vision, Emerging AI Technologies |
 | Tooling | Git, GitHub |
