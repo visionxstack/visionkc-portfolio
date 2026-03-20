@@ -62,11 +62,14 @@ Then visit `http://localhost:8000`.
 ## 📁 Project Structure
 ```
 visionkc-portfolio/
-├── index.html          # Main entry point
-├── assets/
-│   ├── css/            # Stylesheets
-│   ├── js/             # JavaScript files
-│   └── images/         # Images and media
+├── public/             # Static assets
+├── src/
+│   ├── components/     # Reusable UI components
+│   ├── sections/       # Page sections (About, Projects, Contact)
+│   ├── assets/         # Images, icons, fonts
+│   ├── App.js          # Root component
+│   └── index.js        # Entry point
+├── package.json
 └── README.md
 ```
 
