@@ -47,18 +47,18 @@ git clone https://github.com/vision-dev1/visionkc-portfolio.git
 cd visionkc-portfolio
 ```
 ### Install dependencies
-'''bash  
+```bash  
 npm install
    # or
    yarn install
-'''
+```
 
 ### Start the development server
-'''bash
+```bash
 npm start
    # or
    yarn start
-'''
+```
 
 Open http://localhost:3000 in your browser.
 
